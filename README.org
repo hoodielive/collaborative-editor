@@ -1,2 +1,2 @@
-# collaborative-editor
+#+TITLE: Collaborative-Editor
 Project building a Collaborative Editor and Real-time video call with NodeJS
